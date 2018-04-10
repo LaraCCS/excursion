@@ -1,10 +1,10 @@
-header, section {
-  background-color: black;
-  text-align: center;
-}
-
 html {
   font-family: Verdana, sans-serif;
+  background-color: black;
+}
+
+header, section {
+  text-align: center;
 }
 
 h1 {
@@ -27,4 +27,9 @@ p {
 footer {
   background-color: black;
   text-align: right;
+}
+
+a {
+  color: Aquamarine;
+  font-size: 16px;
 }
